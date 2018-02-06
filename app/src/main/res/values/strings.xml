@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">teste-pick-file</string>
+    <string name="btn_remover">Remover</string>
+</resources>
